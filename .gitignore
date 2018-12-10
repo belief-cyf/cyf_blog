@@ -18,7 +18,6 @@ selenium-debug.log
 *.sln
 src/pages/project-settings/level-one.vue
 src/pages/project-settings/service-object.vue
-package.json
 config/index.js
 static/microService/micro/serverConfig.js
 package-lock.json
