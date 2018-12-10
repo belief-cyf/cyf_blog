@@ -1,0 +1,23 @@
+.DS_Store
+node_modules/
+.next/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/test/unit/coverage/
+/test/e2e/reports/
+selenium-debug.log
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+src/pages/project-settings/level-one.vue
+src/pages/project-settings/service-object.vue
+package.json
+config/index.js
+static/microService/micro/serverConfig.js
+package-lock.json
